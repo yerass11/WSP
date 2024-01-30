@@ -1,0 +1,5 @@
+<aspectj>
+    <aspects>
+        <aspect name="kz.kbtu.oop.projectv2.logs.LogsAspect"/>
+    </aspects>
+</aspectj>

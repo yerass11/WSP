@@ -1,0 +1,5 @@
+package kz.kbtu.oop.projectv2.enums;
+
+public enum NewsTags {
+    ACADEMIC, RESEARCH, STUDENT_LIFE, GRADUATED, UNIVERSITY, CAREER, POPULAR_SCIENCE, BREAKING, CULTURE, VACANCY
+}
